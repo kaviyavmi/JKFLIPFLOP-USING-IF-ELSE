@@ -38,15 +38,19 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 1. Launch Quartus on your computer and create a new project:
 Go to File → New Project Wizard.
 Specify the project name, directory, and top-level entity name (e.g., JK_FlipFlop).
+
 2. Create the JK Flip-Flop Circuit and implement the JK Flip-Flop by writing VHDL/Verilog code.
 Go to File → New → Select Verilog File.
+
 3. Compile the Project
 Click on Processing → Start Compilation.
 Fix any syntax or schematic errors if present.
+
 4. Simulate the Circuit:
 Go to Tools → University Program VWF.
 Define the inputs for J, K, and CLK in the waveform editor.
 Run the simulation and observe the waveforms.
+
 5. Verify the Results.
 Compare the simulated results with the truth table for a JK Flip-Flop
 
@@ -55,19 +59,33 @@ Compare the simulated results with the truth table for a JK Flip-Flop
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
 module jk_ff (j, k, clk, rst, q);
+
   input j, k, clk, rst;
+
   output reg q;
+  
   always @(posedge clk or posedge rst) begin
+  
     if (rst)
+      
       q <= 0; // Reset the flip-flop
+   
     else if (j == 0 && k == 0)
+    
       q <= q; // No change
+    
     else if (j == 0 && k == 1)
+    
       q <= 0; // Reset
+    
     else if (j == 1 && k == 0)
+    
       q <= 1; // Set
+    
     else if (j == 1 && k == 1)
+    
       q <= ~q; // Toggle
+ 
   end
 
 
