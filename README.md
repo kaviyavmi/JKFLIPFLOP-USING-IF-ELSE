@@ -95,12 +95,14 @@ RegisterNumber:24900714
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![jk filp flop rtl](https://github.com/user-attachments/assets/986f3629-9a88-4558-8f82-92244ab37e1d)
+![WhatsApp Image 2024-12-22 at 20 35 14_3a8bf3b0](https://github.com/user-attachments/assets/eba0e5c3-0a7a-4dc5-8150-67626a05f811)
+
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![jk flipflop tming diagram](https://github.com/user-attachments/assets/30af8c27-c6b9-4948-a372-54b2b3dfb2ed)
+![WhatsApp Image 2024-12-22 at 20 35 15_0863a66e](https://github.com/user-attachments/assets/c4984491-9c0a-4b77-8d72-45eb05abe525)
+
 
 
 **RESULTS**
