@@ -95,16 +95,14 @@ RegisterNumber:24900714
 
 **RTL LOGIC FOR FLIPFLOPS**
 
-![WhatsApp Image 2024-12-22 at 20 35 14_3a8bf3b0](https://github.com/user-attachments/assets/eba0e5c3-0a7a-4dc5-8150-67626a05f811)
-
+![jk filp flop rtl](https://github.com/user-attachments/assets/6f5c759a-6700-4950-9e1b-06290a4bb321)
 
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
-![WhatsApp Image 2024-12-22 at 20 35 15_0863a66e](https://github.com/user-attachments/assets/c4984491-9c0a-4b77-8d72-45eb05abe525)
-
+![jk flipflop tming diagram](https://github.com/user-attachments/assets/f9516b0b-ae8d-491a-a7da-e9b96176c2ba)
 
 
 **RESULTS**
-Implementation of JK flipflop using verilog and validating their functionality using their functional
+Thus Implementation of JK flipflop using verilog and validating their functionality using their functional
 tables is verified.
