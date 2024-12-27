@@ -104,5 +104,6 @@ RegisterNumber:24900714
 
 
 **RESULTS**
+
 Thus Implementation of JK flipflop using verilog and validating their functionality using their functional
 tables is verified.
