@@ -98,7 +98,7 @@ RegisterNumber:24900714
 ![jk filp flop rtl](https://github.com/user-attachments/assets/6f5c759a-6700-4950-9e1b-06290a4bb321)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![jk flipflop tming diagram](https://github.com/user-attachments/assets/f9516b0b-ae8d-491a-a7da-e9b96176c2ba)
 
